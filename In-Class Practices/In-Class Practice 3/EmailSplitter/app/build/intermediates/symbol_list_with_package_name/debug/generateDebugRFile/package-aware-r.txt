@@ -1,0 +1,21 @@
+com.example.emailsplitter
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id domainView
+id emailInput
+id fragmentContainer
+id splitButton
+id userView
+layout activity_main
+layout fragment_result
+layout fragment_text_input
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base_Theme_EmailSplitter
+style Theme_EmailSplitter
+xml backup_rules
+xml data_extraction_rules

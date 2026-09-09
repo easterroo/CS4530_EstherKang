@@ -1,0 +1,8 @@
+com.example.emailsplitter.app-pngs-0 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/build/generated/res/pngs/debug
+com.example.emailsplitter.app-updated_navigation_xml-1 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/build/generated/updated_navigation_xml/debug
+com.example.emailsplitter.app-packageDebugResources-2 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.emailsplitter.app-packageDebugResources-3 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.emailsplitter.app-debug-4 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.emailsplitter.app-debug-5 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/src/debug/res
+com.example.emailsplitter.app-main-6 /Users/easterroo/CS4530_EstherKang/In-Class Practices/In-Class Practice 3/EmailSplitter/app/src/main/res
+gradleHome-0 /Users/easterroo/.gradle
