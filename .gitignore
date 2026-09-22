@@ -1,5 +1,42 @@
-*.gradle
-/build
-/.gradle
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+!debug.keystore
+
+# Build outputs
+/build/
+*/build/
 *.apk
-local.properties
+*.aab
+*.ap_
+*.dex
+
+# Gradle
+.gradle
+/local.properties
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Log/cache files
+*.log
+*.hprof
+.navigation/
+
+# Signing configs (never commit these)
+*.jks
+keystore.properties
