@@ -1,4 +1,4 @@
-package com.example.assignment2
+package com.example.assignment3
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

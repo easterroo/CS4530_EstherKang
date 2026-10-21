@@ -1,5 +1,6 @@
-package com.example.assignment2
+package com.example.assignment3
 
+import android.R.attr.enabled
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -105,12 +106,12 @@ fun EditCourse(myNavController: NavHostController, myVM: CourseViewModel, id: In
                         )
                     )
                     myNavController.navigate("list")},
-                    modifier = Modifier.weight(1f)) {
+                    modifier = Modifier.weight(1f),
+                    enabled = department.isNotBlank() && courseNum.isNotBlank()) {
                     Text("Save")
                 }
                 Button(onClick = {myNavController.navigate("list")},
-                    modifier = Modifier.weight(1f),
-                    enabled = department.isNotBlank() && courseNum.isNotBlank()) {
+                    modifier = Modifier.weight(1f)) {
                     Text("Back")
                 }
             }

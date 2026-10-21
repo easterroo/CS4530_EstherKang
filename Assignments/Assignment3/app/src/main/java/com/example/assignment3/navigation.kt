@@ -1,4 +1,4 @@
-package com.example.assignment2
+package com.example.assignment3
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController

@@ -254,7 +254,7 @@ val unspecified_scheme = ColorFamily(
 )
 
 @Composable
-fun Assignment2Theme(
+fun Assignment3Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
